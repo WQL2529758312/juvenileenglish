@@ -1,80 +1,207 @@
 {
     "口语对话":[
         {
-            "title":"关于购物类对话",
+            "title":"关于购物类日常对话",
             "image":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1715833406,2433070289&fm=200&gp=0.jpg",
-            "A":"CanI help you? ",
-            "B":" yes,please",
-            "A":"CanI try iton ?",
-            "B":"Sure ; you can.",
-            "A":"What kind of noodles would you like ?",
-            "B":"I'd like beef noodles.",
-            "A":".Thnk you..",   
-            "B":"You re welcome"
-       
-        },
-           {
-            "title":"关于问路类对话",
+            "A":[
+                {
+                    "1":"CanI help you? "
+               ,
+                    "2":"CanI try iton ?" ,
+                    "3":"What kind of noodles would you like ?"
+ ,
+                    "4":" Thnk you.."
+ 
+                   
+ 
+                    
+
+                }
+            ],
+            "B":[
+                {
+                    "1":"yes,please"
+                ,
+                
+                    "2":"Sure ; you can.",
+                
+                    "3":"I'd like beef noodles."
+,
+                
+                    "4":"You're welcome"
+
+                }
+            ]
+        },{
+            "title":"关于问路类日常对话",
             "image":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2198747521,613175924&fm=27&gp=0.jpg",
-            "A":"Excuse me?",
-            "B":"Yes",
-            "A":"Can you tell me how to get to ..?",
-            "B":"Could you please tell mehow to...",
-            "A":"Whereis ..",
-            "B":"How farisit?"
-          
+            "A":[
+                {
+                    "1":"Excuse me??"
+               ,
+                    "2":"Can you tell me how to get to .. ?" ,
+                    "3":"Where is ..?"
+ 
+ 
+                   
+ 
+                    
 
+                }
+            ],
+            "B":[
+                {
+                    "1":"yes"
+                ,
+                
+                    "2":"Could you please tell me how to....",
+                
+                    "3":"How farisit?."
+
+
+                }
+            ]
         },
 {
-            "title":"关于天气类对话",
+            "title":"关于天气类日常对话",
             "image":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526403066367&di=6575f42cd363257a18124a8cbf9fee6a&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01ed6a579c3d970000012e7ede5b33.jpg%401280w_1l_2o_100sh.jpg",
-            "A":"Whats the weather 1ike ?",
-            "B":"It's sunnyrainy cloudywindy snowy.",
-            "A":"Which season do you like best?",
-            "A":"I like Spring,Summer Autumn Winter"
+            "A":[
+                {
+                    "1":" Whats the weather 1ike ?"
+               ,
+                    "2":"Which season do you like best?" 
+                   
+ 
+                    
 
+                }
+            ],
+            "B":[
+                {
+                    "1":"It's sunny，rainy， cloudy，windy， snowy."
+                ,
+                
+                    "2":"I like Spring,Summer，Autumn，Winter"
+
+
+                }
+            ]
         },
-      {
-            "title":"关于假期，周末活动对话",
+{
+            "title":"关于假期，周末类日常对话",
             "image":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2999168511,3836774307&fm=27&gp=0.jpg",
-            "A":"How was your weekend?",
-            "B":"what did you do on weekends?",
-            "A":"What are you going to do on weekend ? ",
-            "B":"I am going to...", 
-            "A":"When will you leave ?lWhen are you going? ",
-            "B":"How will you get there?How 1ong are you staying?",
-            "A":"When shall we meet?Where shall we meet?",
-            "B":"That s a good idea . That sounds good.",
-            "A":"What abou t you ?How about you?What about doing ....."
-               },
-           {
-            "title":"关于学习的对话",
+            "A":[
+                {
+                    "1":"How was your weekend? "
+               ,
+                    "2":"What are you going to do on weekend？  " ,
+                    "3":" When shall we meet?"
+ 
+ 
+                   
+ 
+                    
+
+                }
+            ],
+            "B":[
+                {
+                    "1":"yes,please"
+                ,
+                
+                    "2":"I am going to see a film.",
+                
+                    "3":" I think we can make it half past one."
+
+
+                }
+            ]
+        },
+{
+            "title":"关于学习类日常对话",
             "image":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1609759726,922171106&fm=200&gp=0.jpg",
-            "A":"How do you study for a test ?",
-            "B":"How do you learn English?",
-            "A":"I study by1 listening to the tapes .",
-            "B":"What`s your favorite subject ?",
-            "A":"My favorite subjectis ...",
-            "B":"Who is your Eng1ish teacher?",
-            "A":" She is ..."
-           
+            "A":[
+                {
+                    "1":"How do you study for a test ? "
+               ,
+                    "2":"How do you learn English?" ,
+                    "3":"What`s your favorite subject ?"
+ ,
+                    "4":" Who is your Eng1ish teacher?"
+ 
+                   
+ 
+                    
 
+                }
+            ],
+            "B":[
+                {
+                    "1":"I study by working with a group."
+                ,
+                
+                    "2":"I study  English by listening to the tapes .",
+                
+                    "3":"My favorite subjecti music"
+,
+                
+                    "4":"She is ..."
+
+                }
+            ]
         },
 {
-            "title":"关于日期的日常对话",
+            "title":"关于日期类日常对话",
             "image":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1058147221,4075064067&fm=200&gp=0.jpg",
-            "A":"What`s the date today?",
-            "B":"Whenis ..?"
-           
-        },
-{
-            "title":"关于看医生的日常对话",
-            "image":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2635405675,352088173&fm=27&gp=0.jpg",
-            "A":" What`s the matter ?",
-            "B":"I have a cold ",
-            "A":"When did it start ?",
-            "B":""
-        }
+            "A":[
+                {
+                    "1":"What's the date today? "
+               ,
+                    "2":"What day is it today?" 
 
+ ,
+                    "4":" What day is it tomorrow? "
+ 
+                   
+ 
+                    
+
+                }
+            ],
+            "B":[
+                {
+                    "1":" It's June the 12th."
+                ,
+                
+                    "2":" Today is Sunday."
+,
+                
+                    "3":"It is Monday (tomorrow)"
+
+                }
+            ]
+        },
+
+        {
+            "title":"关于看医生日常对话1",
+            "image":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2635405675,352088173&fm=27&gp=0.jpg",
+            "A":[
+                {
+                    "1":"What`s the matter ?"
+                ,
+                
+                    "2":"When did it start ?"
+                }
+            ],
+            "B":[
+                {
+                    "1":"I have a cold "
+                ,
+                
+                    "2":"Patient  Since last night."
+                }
+
+            ]
+        }
     ]
 }
